@@ -12,7 +12,7 @@
 ## My Python Development Course 
 - [Python Backend Show with Saad Fareed](https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw)
 
-### I'm a Python Developer, Teacher and Researcher!
+### I'm a Web & App Developer, Student and Future Software-Engineer!
 - 🔭 I’m currently working as Backend Engineer @Turingcom.
 - 🌱 I’m currently expanding my knowledge in DevOps.
 - 👯 I’m looking to collaborate with other content creators and developers.
@@ -133,17 +133,17 @@
 
 ## 🐛Github Magic Game
 <p align="center">
-  <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/salmannaeem112215/salmannaeem/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <br>
 <h2 >🏆 GitHub Profile Trophy</h2>
 <p>
 <a href="https://github.com/saadfareed">
-  <img src="https://github-profile-trophy.vercel.app/?username=saadfareed&theme=matrix&column=8&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=salmannaeem112215&theme=matrix&column=8&margin-w=15&margin-h=15"/>
 
 </a>
 </p>
 <p align="center"> 
   Views<br>
-  <img src="https://profile-counter.glitch.me/saadfareed/count.svg" />
+  <img src="https://profile-counter.glitch.me/salmannaeem112215/count.svg" />
 </p>
