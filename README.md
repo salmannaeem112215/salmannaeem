@@ -24,7 +24,7 @@
 
 <table width="100">
 <tr>
-    <td align='center' width="200">
+    <td align='center' width="195">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
     </td>
 
