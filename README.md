@@ -3,14 +3,14 @@
     <h1> Hi there, I'm Salman👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/saadfareed"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Django+Developer;Python+Backend+Engineer;Data+Scientist;NLP+Engineer&center=true&width=500&height=50"></a>
+<a href="https://github.com/salmannaeem112215"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Django+Developer;Python+Backend+Engineer;Data+Scientist;NLP+Engineer&center=true&width=500&height=50"></a>
 	
  ## Bootcamp alert
-- [MLSA Job Hunting Bootcamp](https://github.com/saadfareed/MLSA-Job-Hunting-bootcamp) will started soon.
+- [MLSA Job Hunting Bootcamp](https://github.com/salmannaeem112215/MLSA-Job-Hunting-bootcamp) will started soon.
 <img align="right" alt="" src="fresh.jpg" width="270" />
 	
 ## My Python Development Course 
-- [Python Backend Show with Saad Fareed](https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw)
+- [Python Backend Show with Salman Just Kidding](https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw)
 
 ### I'm a Web & App Developer, Student and Future Software-Engineer!
 - 🔭 I’m currently working as Backend Engineer @Turingcom.
@@ -83,9 +83,9 @@
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/saad-fareed/"><img src="https://img.shields.io/badge/-Saad%20Fareed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:saadfareed632@gmail.com"><img src="https://img.shields.io/badge/-saadfareed@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/saadfareed_sadi/"><img src="https://img.shields.io/badge/-@saadfareed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://leetcode.com/Saadfareed/"><img src="https://img.shields.io/badge/-/saadfareed-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:salman.naeem.112215@gmail.com"><img src="https://img.shields.io/badge/-salman.naeem.112215@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/salmannaeem112215_sadi/"><img src="https://img.shields.io/badge/-@salmannaeem112215-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://leetcode.com/salmannaeem112215/"><img src="https://img.shields.io/badge/-/salmannaeem112215-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
  </p>
  
 <br>
@@ -95,10 +95,10 @@
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  | Last Commit 🚩
 |-------------|-------------------|---|---| ----|
-| [**Meeting Summarization**](https://github.com/saadfareed/transcript_summary) | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/transcript_summary?color=green&logo=github&style=flat)](https://github.com/saadfareed/transcript_summary/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/transcript_summary?style=flat&logo=github)](https://github.com/saadfareed/transcript_summary/pulls)  | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/transcript_summary?style=flat&color=critical&logo=github)](https://github.com/saadfareed/transcript_summary/pulls?q=is%3Apr+is%3Aclosed)  |[![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/transcript_summary?color=blue&logo=github&style=flat)](https://github.com/saadfareed/transcript_summary/commits/) |
-| [**Github Profile**](https://github.com/saadfareed/saadfareed) | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/saadfareed?color=green&logo=github&style=flat)](https://github.com/saadfareed/saadfareed/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/saadfareed?style=flat&logo=github)](https://github.com/saadfareed/saadfareed/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/saadfareed?style=flat&color=critical&logo=github)](https://github.com/saadfareed/saadfareed/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/saadfareed?color=blue&logo=github&style=flat)](https://github.com/saadfareed/saadfareed/commits/) |
-| [**Certificate Generator**](https://github.com/saadfareed/Certificate_generator) | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/Certificate_generator?color=green&logo=github&style=flat)](https://github.com/saadfareed/Certificate_generator/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Certificate_generator?style=flat&logo=github)](https://github.com/saadfareed/Certificate_generator/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Certificate_generator?style=flat&color=critical&logo=github)](https://github.com/saadfareed/Certificate_generator/pulls?q=is%3Apr+is%3Aclosed)   | [![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Certificate_generator?color=blue&logo=github&style=flat)](https://github.com/saadfareed/Certificate_generator/commits/)|
-| [**Leetcode Practice**](https://github.com/saadfareed/Leetcode) | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/Leetcode?color=green&logo=github&style=flat)](https://github.com/saadfareed/Leetcode/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Leetcode?style=flat&logo=github)](https://github.com/saadfareed/Leetcode/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Leetcode?style=flat&color=critical&logo=github)](https://github.com/saadfareed/Leetcode/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Leetcode?color=blue&logo=github&style=flat)](https://github.com/saadfareed/Leetcode/commits/) |
+| [**Meeting Summarization**](https://github.com/salmannaeem112215/transcript_summary) | [![GitHub issues](https://img.shields.io/github/issues/salmannaeem112215/transcript_summary?color=green&logo=github&style=flat)](https://github.com/salmannaeem112215/transcript_summary/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/salmannaeem112215/transcript_summary?style=flat&logo=github)](https://github.com/salmannaeem112215/transcript_summary/pulls)  | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/salmannaeem112215/transcript_summary?style=flat&color=critical&logo=github)](https://github.com/salmannaeem112215/transcript_summary/pulls?q=is%3Apr+is%3Aclosed)  |[![GitHub last commit](https://img.shields.io/github/last-commit/salmannaeem112215/transcript_summary?color=blue&logo=github&style=flat)](https://github.com/salmannaeem112215/transcript_summary/commits/) |
+| [**Github Profile**](https://github.com/salmannaeem112215/salmannaeem) | [![GitHub issues](https://img.shields.io/github/issues/salmannaeem112215/salmannaeem?color=green&logo=github&style=flat)](https://github.com/salmannaeem112215/salmannaeem/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/salmannaeem112215/salmannaeem?style=flat&logo=github)](https://github.com/salmannaeem112215/salmannaeem/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/salmannaeem112215/salmannaeem?style=flat&color=critical&logo=github)](https://github.com/salmannaeem112215/salmannaeem/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/salmannaeem112215/salmannaeem?color=blue&logo=github&style=flat)](https://github.com/salmannaeem112215/salmannaeem/commits/) |
+| [**Certificate Generator**](https://github.com/salmannaeem112215/Certificate_generator) | [![GitHub issues](https://img.shields.io/github/issues/salmannaeem112215/Certificate_generator?color=green&logo=github&style=flat)](https://github.com/salmannaeem112215/Certificate_generator/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/salmannaeem112215/Certificate_generator?style=flat&logo=github)](https://github.com/salmannaeem112215/Certificate_generator/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/salmannaeem112215/Certificate_generator?style=flat&color=critical&logo=github)](https://github.com/salmannaeem112215/Certificate_generator/pulls?q=is%3Apr+is%3Aclosed)   | [![GitHub last commit](https://img.shields.io/github/last-commit/salmannaeem112215/Certificate_generator?color=blue&logo=github&style=flat)](https://github.com/salmannaeem112215/Certificate_generator/commits/)|
+| [**Leetcode Practice**](https://github.com/salmannaeem112215/Leetcode) | [![GitHub issues](https://img.shields.io/github/issues/salmannaeem112215/Leetcode?color=green&logo=github&style=flat)](https://github.com/salmannaeem112215/Leetcode/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/salmannaeem112215/Leetcode?style=flat&logo=github)](https://github.com/salmannaeem112215/Leetcode/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/salmannaeem112215/Leetcode?style=flat&color=critical&logo=github)](https://github.com/salmannaeem112215/Leetcode/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/salmannaeem112215/Leetcode?color=blue&logo=github&style=flat)](https://github.com/salmannaeem112215/Leetcode/commits/) |
 
 	
  
@@ -106,11 +106,11 @@
  </h2>
 
 <p align="center">
-<a href="https://github.com/saadfareed">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saadfareed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saadfareed&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/salmannaeem112215">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salmannaeem112215&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=salmannaeem112215&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadfareed&show_icons=true&locale=en&layout=demo&theme=algolia" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=salmannaeem112215&show_icons=true&locale=en&layout=demo&theme=algolia" />
 </p>
 </p>
 <br>
@@ -127,7 +127,7 @@
 
 ## 🚀Github Metrics
 <p align="center">
-	<img width="625em" src="https://github.com/saadfareed/saadfareed/blob/main/github-metrics.svg" />
+	<img width="625em" src="https://github.com/salmannaeem112215/salmannaeem/blob/main/github-metrics.svg" />
 </p>
 <br>
 
@@ -138,7 +138,7 @@
 <br>
 <h2 >🏆 GitHub Profile Trophy</h2>
 <p>
-<a href="https://github.com/saadfareed">
+<a href="https://github.com/salmannaeem112215">
   <img src="https://github-profile-trophy.vercel.app/?username=salmannaeem112215&theme=matrix&column=8&margin-w=15&margin-h=15"/>
 
 </a>
